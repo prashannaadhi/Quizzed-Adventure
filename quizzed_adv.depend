@@ -1,0 +1,652 @@
+# depslib dependency file v1.0
+1500340584 source:f:\engg project\quizzed_adv\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"headers/game_object.h"
+	"headers/AssetManager.h"
+	"headers/player.h"
+
+1497977130 f:\engg project\quizzed_adv\headers\random.h
+
+1498389833 f:\engg project\quizzed_adv\headers\object-array.h
+	<SFML/Graphics.hpp>
+
+1498389472 source:f:\engg project\quizzed_adv\object-array.cpp
+	"headers/OBJECT-array.h"
+
+1498447118 f:\engg project\quizzed_adv\headers\obstacle.h
+	<SFML/Graphics.hpp>
+
+1498456450 f:\engg project\quizzed_adv\headers\text.h
+	<SFML/Graphics.hpp>
+
+1499398596 source:f:\engg project\quizzed_adv\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1499398598 f:\engg project\quizzed_adv\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1499399730 source:f:\engg project\quizzed_adv\assetmanager.cpp
+	"headers/AssetManager.h"
+	<assert.h>
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1499399685 f:\engg project\quizzed_adv\headers\assetmanager.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1500463629 source:f:\engg project\quizzed_adv\player.cpp
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1500463592 f:\engg project\quizzed_adv\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1499399730 source:f:\engg project\approved\quizzed_adv\assetmanager.cpp
+	"headers/AssetManager.h"
+	<assert.h>
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1499399685 f:\engg project\approved\quizzed_adv\headers\assetmanager.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1501683911 source:f:\engg project\approved\quizzed_adv\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1501683881 f:\engg project\approved\quizzed_adv\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1501729368 source:f:\engg project\approved\quizzed_adv\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<string.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1501680913 f:\engg project\approved\quizzed_adv\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1501084381 source:f:\engg project\approved\quizzed_adv\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1499172478 f:\engg project\approved\quizzed_adv\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1501747859 f:\engg project\approved\quizzed_adv\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+
+1501692073 f:\engg project\approved\quizzed_adv\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1501562940 f:\engg project\approved\quizzed_adv\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1501559326 f:\engg project\approved\quizzed_adv\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1501693512 f:\engg project\approved\quizzed_adv\headers\exitw.h
+
+1501870931 source:c:\users\sumit\desktop\quizzed_adv\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1501870961 c:\users\sumit\desktop\quizzed_adv\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1501905247 source:c:\users\sumit\desktop\quizzed_adv\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<string.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1501749115 source:c:\users\sumit\desktop\quizzed_adv\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1501749011 c:\users\sumit\desktop\quizzed_adv\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1499172478 c:\users\sumit\desktop\quizzed_adv\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1501752389 c:\users\sumit\desktop\quizzed_adv\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1501903696 c:\users\sumit\desktop\quizzed_adv\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1501559326 c:\users\sumit\desktop\quizzed_adv\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1501903303 c:\users\sumit\desktop\quizzed_adv\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"startwindow.h"
+
+1501751449 c:\users\sumit\desktop\quizzed_adv\headers\exitw.h
+
+1502418269 source:e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1502388345 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502517041 source:e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<string.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1502516478 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1499172478 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1501752390 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1502262256 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1501559326 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1502421022 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"startwindow.h"
+	"player.h"
+
+1501751450 e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\headers\exitw.h
+
+1502516730 source:e:\c++\2nd sem  project\quizzed_adv.1\quizzed_adv\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1501994848 source:e:\quizzed_adv.1\quizzed_adv\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1501870962 e:\quizzed_adv.1\quizzed_adv\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502109298 source:e:\quizzed_adv.1\quizzed_adv\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<string.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1502109458 source:e:\quizzed_adv.1\quizzed_adv\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502008128 e:\quizzed_adv.1\quizzed_adv\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1499172478 e:\quizzed_adv.1\quizzed_adv\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1501752390 e:\quizzed_adv.1\quizzed_adv\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1501903698 e:\quizzed_adv.1\quizzed_adv\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1501559326 e:\quizzed_adv.1\quizzed_adv\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1502109270 e:\quizzed_adv.1\quizzed_adv\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"startwindow.h"
+
+1501751450 e:\quizzed_adv.1\quizzed_adv\headers\exitw.h
+
+1501994848 source:h:\quizzed_adv.1\quizzed_adv\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1501870962 h:\quizzed_adv.1\quizzed_adv\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502109298 source:h:\quizzed_adv.1\quizzed_adv\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<string.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1502260448 source:h:\quizzed_adv.1\quizzed_adv\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502260522 h:\quizzed_adv.1\quizzed_adv\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502418269 source:c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1502388345 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502677889 source:c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502516478 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502685276 source:c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	<string.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1499172478 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1501752390 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1502686678 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<math.h>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1501559326 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1502675426 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"startwindow.h"
+	"player.h"
+
+1502678351 c:\users\shailesh\desktop\final project\quizzed_adv_prasanna\headers\exitw.h
+
+1502418269 source:c:\users\shailesh\desktop\final project\quizzed_adv_final\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1502722602 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502770563 source:c:\users\shailesh\desktop\final project\quizzed_adv_final\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1502677889 source:c:\users\shailesh\desktop\final project\quizzed_adv_final\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502722600 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502722638 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1502764262 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1502764388 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1502764555 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1502771131 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"startwindow.h"
+	"player.h"
+
+1502725505 c:\users\shailesh\desktop\final project\quizzed_adv_final\headers\exitw.h
+	<SFML/Graphics.hpp>
+	"startwindow.h"
+
+1502775008 source:h:\final project\quizzed_adv_final\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1502722604 h:\final project\quizzed_adv_final\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502775456 source:h:\final project\quizzed_adv_final\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1502779716 source:h:\final project\quizzed_adv_final\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502774964 h:\final project\quizzed_adv_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502722604 h:\quizzed_adv_final\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502722602 h:\quizzed_adv_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502722640 h:\quizzed_adv_final\headers\text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+
+1502764264 h:\quizzed_adv_final\headers\time_text.h
+	<sstream>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	"player.h"
+
+1502764390 h:\quizzed_adv_final\headers\startwindow.h
+	<SFML/Graphics.hpp>
+	<cstdlib>
+	"gates.h"
+	"text.h"
+
+1502764556 h:\quizzed_adv_final\headers\gates.h
+	<SFML/Graphics.hpp>
+
+1502771132 h:\quizzed_adv_final\headers\queans.h
+	<SFML/Graphics.hpp>
+	<fstream>
+	<string>
+	<iostream>
+	"startwindow.h"
+	"player.h"
+
+1502725506 h:\quizzed_adv_final\headers\exitw.h
+	<SFML/Graphics.hpp>
+	"startwindow.h"
+
+1502775008 source:e:\study materials\1.2\engg 102\quizzed_adv_final\quizzed_adv_final\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1502722604 e:\study materials\1.2\engg 102\quizzed_adv_final\quizzed_adv_final\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502775456 source:e:\study materials\1.2\engg 102\quizzed_adv_final\quizzed_adv_final\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1502779716 source:e:\study materials\1.2\engg 102\quizzed_adv_final\quizzed_adv_final\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502774964 e:\study materials\1.2\engg 102\quizzed_adv_final\quizzed_adv_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502775008 source:e:\ku materials\1.2\engg 102 project\quizzed_adv_final\quizzed_adv_final\game_object.cpp
+	<SFML/Graphics.hpp>
+	"headers/game_object.h"
+
+1502722604 e:\ku materials\1.2\engg 102 project\quizzed_adv_final\quizzed_adv_final\headers\game_object.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+
+1502775456 source:e:\ku materials\1.2\engg 102 project\quizzed_adv_final\quizzed_adv_final\main.cpp
+	<iostream>
+	<sstream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<time.h>
+	"game_object.h"
+	"player.h"
+	"text.h"
+	"time_text.h"
+	"startwindow.h"
+	"gates.h"
+	"queAns.h"
+	"exitW.h"
+
+1502779716 source:e:\ku materials\1.2\engg 102 project\quizzed_adv_final\quizzed_adv_final\player.cpp
+	"headers/game_object.h"
+	"headers/player.h"
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
+1502774964 e:\ku materials\1.2\engg 102 project\quizzed_adv_final\quizzed_adv_final\headers\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Main.hpp>
+	<iostream>
+
